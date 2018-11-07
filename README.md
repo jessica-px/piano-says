@@ -1,7 +1,12 @@
+
 # Piano Says
 [Live Demo](https://piano-says.netlify.com/)
 
 A Simon-like musical memory game that challenges players to repeat up to 20 notes forming a randomized song. This project was based on freecodecamp's [Simon assignment](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/build-a-simon-game/).
+
+<p align="center">
+  <img src="https://jessypeck.netlify.com/dist/images/piano.png" alt="drawing" width="50%"/>
+</p>
 
 #### Project Goals:
 - User Story: I am presented with a random series of button presses.
@@ -22,6 +27,6 @@ A Simon-like musical memory game that challenges players to repeat up to 20 note
 
 #### Known Issues:
 - current layout is too cramped with phone-sized screens
-- inconsistent input on touch devices
+- incosistent input on touch devices
 
 __Libraries Used:__ [Tone.js](https://github.com/Tonejs/Tone.js)
